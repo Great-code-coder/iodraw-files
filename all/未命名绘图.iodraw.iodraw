@@ -86,6 +86,9 @@
         <mxCell id="RLjyjs_sm2IHfBNOWAbh-24" value="" style="shadow=0;dashed=0;html=1;strokeColor=#1A1A1A;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.mscae.cloud.power_bi_embedded;fillColor=#0050ef;pointerEvents=1;labelBackgroundColor=#ffffff;spacingTop=7;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="885.4999999999999" y="354.5" width="47" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="oDiTQ87NLgK9X6ZSkt7p-1" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.computer;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="360" width="50" height="45" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
