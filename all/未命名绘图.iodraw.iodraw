@@ -92,8 +92,8 @@
         <mxCell id="oDiTQ87NLgK9X6ZSkt7p-3" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Docker.svg;" vertex="1" parent="1">
           <mxGeometry x="590" y="360" width="97.56" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="oDiTQ87NLgK9X6ZSkt7p-4" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.server_directory" vertex="1" parent="1">
-          <mxGeometry x="590" y="360" width="36" height="50" as="geometry" />
+        <mxCell id="oDiTQ87NLgK9X6ZSkt7p-4" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#001DBC;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#0050ef;shape=mxgraph.mscae.enterprise.server_directory;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="478" y="290" width="50.4" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
