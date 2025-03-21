@@ -87,7 +87,10 @@
           <mxGeometry x="885.4999999999999" y="354.5" width="47" height="50" as="geometry" />
         </mxCell>
         <mxCell id="oDiTQ87NLgK9X6ZSkt7p-1" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.computer;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="360" width="50" height="45" as="geometry" />
+          <mxGeometry x="390" y="433.5" width="50" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="oDiTQ87NLgK9X6ZSkt7p-3" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Docker.svg;" vertex="1" parent="1">
+          <mxGeometry x="590" y="360" width="50" height="41" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
