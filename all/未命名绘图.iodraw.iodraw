@@ -102,7 +102,10 @@
           <mxGeometry x="160" y="260" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="oDiTQ87NLgK9X6ZSkt7p-7" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Software_Update.svg;" vertex="1" parent="1">
-          <mxGeometry x="590" y="360" width="50" height="45" as="geometry" />
+          <mxGeometry x="360" y="510" width="50" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="oDiTQ87NLgK9X6ZSkt7p-8" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Database_General.svg;" vertex="1" parent="1">
+          <mxGeometry x="590" y="360" width="38" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
